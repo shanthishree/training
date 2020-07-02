@@ -32,7 +32,7 @@
 						<username>pandu06</username>
 						<password>Pandu@2018</password>
 						<!-- Environment Parameter -->
-						<environment>Sandbox</environm	ent>
+						<environment>Sandbox</environment>
 						<applicationName>createAccount_cloudhub</applicationName>
 						<muleVersion>4.2.2</muleVersion>						
 						<workerType>Micro</workerType>
