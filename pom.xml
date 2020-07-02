@@ -21,8 +21,7 @@
 		<plugins>
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
-				<artifactId>mule-maven-plugin</artifactId>
-				<mule.tools.version>1.7</mule.tools.version>
+				<artifactId>mule-maven-plugin</artifactId>				
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
@@ -33,7 +32,7 @@
 						<username>pandu06</username>
 						<password>Pandu@2018</password>
 						<!-- Environment Parameter -->
-						<environment>Sandbox</environment>
+						<environment>Sandbox</environm	ent>
 						<applicationName>createAccount_cloudhub</applicationName>
 						<muleVersion>4.2.2</muleVersion>						
 						<workerType>Micro</workerType>
