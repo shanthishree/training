@@ -33,10 +33,9 @@
 						<password>Pandu@2018</password>
 						<!-- Environment Parameter -->
 						<environment>Sandbox</environment>
-						<applicationName>createAccount_</applicationName>
-						<muleVersion>4.2.2</muleVersion>
-						<businessGroup>Micro</businessGroup>
-						<workerType>${cloudhub.worker}</workerType>
+						<applicationName>createAccount_cloudhub</applicationName>
+						<muleVersion>4.3.0</muleVersion>						
+						<workerType>Micro</workerType>
 						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>	
